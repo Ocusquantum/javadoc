@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"javadoc_tags","l":"ACMESmartphone"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"javadoc_tags","l":"App"},{"p":"javadoc_tags","l":"Dynamite"}];updateSearchResults();
